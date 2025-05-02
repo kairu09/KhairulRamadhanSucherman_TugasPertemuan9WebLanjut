@@ -1,0 +1,24 @@
+{
+  "mahasiswa": [
+    {
+      "nama": "Khairul",
+      "prodi": "D3 Sistem Informasi",
+      "id": 1
+    },
+    {
+      "nama": "Khairul",
+      "prodi": "D3 Sistem Informasi",
+      "id": 2
+    },
+    {
+      "nama": "Khairul",
+      "prodi": "D3 Sistem Informasi",
+      "id": 3
+    },
+    {
+      "nama": "Khairul",
+      "prodi": "D3 Sistem Informasi",
+      "id": 4
+    }
+  ]
+}
